@@ -22,7 +22,7 @@ h1,h3,label
 
 head,body
 {
-    background-image: radial-gradient(darkseagreen,lightcoral,navy);
+    background-image: radial-gradient(orange,yellow,green);
 }
 
 
@@ -34,7 +34,7 @@ h1{
 
 h4
 {
-    color:red;
+    color:White;
 }
 
 #camera
